@@ -53,7 +53,7 @@ body {
   text-decoration: none;
 }
     .hero {
-  background: url('hero3.jpg') center/cover no-repeat;
+  background: url('../hero3.jpg') center/cover no-repeat;
     color: white;
     padding: 3rem 2rem;
     position: relative;
